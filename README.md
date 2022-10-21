@@ -1,0 +1,1 @@
+# maxsofa-store
